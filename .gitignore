@@ -3,3 +3,4 @@ _site/
 .cecil/
 .cache/
 themes/*
+.DS_Store
