@@ -1,17 +1,89 @@
 ---
-title: Daft Punk
-date: 2020-02-05T14:43:00.000Z
+title: Finding Shelter in Gariwerd
+date: 2020-10-21
 image: /images/daft-punk.jpg
 tags:
-  - Music
-  - Electronic
+  - Walking
+  - Gariwerd
 draft: false
 ---
+We had a week off with the Bureau and [yr.no](https://www.yr.no/) predicting typical glum weather all week, but with restrictions easing in regional Victoria we endeavoured to get down to Bunjil’s Shelter and Broken Falls.
 
-**Daft Punk** is a French [electronic music](https://en.m.wikipedia.org/wiki/Electronic_music) duo formed in Paris in 1993 by [Guy-Manuel de Homem-Christo](https://en.m.wikipedia.org/wiki/Guy-Manuel_de_Homem-Christo) and [Thomas Bangalter](https://en.m.wikipedia.org/wiki/Thomas_Bangalter). They achieved popularity in the late 1990s as part of the [French house](https://en.m.wikipedia.org/wiki/French_house) movement; they also had success in the years following, combining elements of [house music](https://en.m.wikipedia.org/wiki/House_music) with [funk](https://en.m.wikipedia.org/wiki/Funk), [techno](https://en.m.wikipedia.org/wiki/Techno), [disco](https://en.m.wikipedia.org/wiki/Disco), rock and [synthpop](https://en.m.wikipedia.org/wiki/Synthpop). They have worn ornate helmets and gloves to assume [robot](https://en.m.wikipedia.org/wiki/Robot) personas in most public appearances since 1999 and rarely grant interviews or appear on television. The duo were managed from 1996 to 2008 by [Pedro Winter](https://en.m.wikipedia.org/wiki/Pedro_Winter) (also known as Busy P), the head of [Ed Banger Records](https://en.m.wikipedia.org/wiki/Ed_Banger_Records).
-<!-- excerpt -->
-After Bangalter and Homem-Christo's [indie rock](https://en.m.wikipedia.org/wiki/Indie_rock) band [Darlin'](https://en.m.wikipedia.org/wiki/Darlin'_(French_band)) disbanded, they began experimenting with [drum machines](https://en.m.wikipedia.org/wiki/Drum_machine) and synthesisers. Their debut studio album *[Homework](https://en.m.wikipedia.org/wiki/Homework_(Daft_Punk_album))* was released by [Virgin Records](https://en.m.wikipedia.org/wiki/Virgin_Records) in 1997 to positive reviews, backed by singles "[Around the World](https://en.m.wikipedia.org/wiki/Around_the_World_(Daft_Punk_song))" and "[Da Funk](https://en.m.wikipedia.org/wiki/Da_Funk)". Their second album, *[Discovery](https://en.m.wikipedia.org/wiki/Discovery_(Daft_Punk_album)),* had further success, supported by hit singles "[One More Time](https://en.m.wikipedia.org/wiki/One_More_Time_(Daft_Punk_song))", "[Digital Love](https://en.m.wikipedia.org/wiki/Digital_Love_(Daft_Punk_song))" and "[Harder, Better, Faster, Stronger](https://en.m.wikipedia.org/wiki/Harder,_Better,_Faster,_Stronger)". In March 2005, Daft Punk released their third album, *[Human After All](https://en.m.wikipedia.org/wiki/Human_After_All),* to mixed reviews, though the singles "[Robot Rock](https://en.m.wikipedia.org/wiki/Robot_Rock_(song))" and "[Technologic](https://en.m.wikipedia.org/wiki/Technologic)" achieved success in the United Kingdom. Daft Punk [toured throughout 2006 and 2007](https://en.m.wikipedia.org/wiki/Alive_2006/2007) and released the live album *[Alive 2007](https://en.m.wikipedia.org/wiki/Alive_2007)*, which won a [Grammy Award](https://en.m.wikipedia.org/wiki/Grammy_Award) for [Best Electronic/Dance Album](https://en.m.wikipedia.org/wiki/Grammy_Award_for_Best_Electronic/Dance_Album). They composed the score for the film *[Tron: Legacy](https://en.m.wikipedia.org/wiki/Tron:_Legacy)*, which was released in 2010 alongside [its soundtrack album](https://en.m.wikipedia.org/wiki/Tron:_Legacy_(soundtrack)).
+## Bunjil’s Shelter
 
-In 2013, Daft Punk left Virgin for [Columbia Records](https://en.m.wikipedia.org/wiki/Columbia_Records), and released their fourth album, *[Random Access Memories](https://en.m.wikipedia.org/wiki/Random_Access_Memories),* to acclaim; lead single "[Get Lucky](https://en.m.wikipedia.org/wiki/Get_Lucky_(Daft_Punk_song))" reached the top 10 in the charts of 32 countries. *Random Access Memories* won five Grammy Awards in 2014, including [Album of the Year](https://en.m.wikipedia.org/wiki/Grammy_Award_for_Album_of_the_Year) and [Record of the Year](https://en.m.wikipedia.org/wiki/Grammy_Award_for_Record_of_the_Year) for "Get Lucky". In 2016, Daft Punk gained their first number one on the [*Billboard* Hot 100](https://en.m.wikipedia.org/wiki/Billboard_Hot_100) with the song "[Starboy](https://en.m.wikipedia.org/wiki/Starboy_(song))", a collaboration with [The Weeknd](https://en.m.wikipedia.org/wiki/The_Weeknd). As of 2015, Daft Punk had sold over 12 million albums worldwide.
+* *Difficulty:* Easy
+* *Time:* 30 minutes
 
-> Source: https://en.m.wikipedia.org/wiki/Daft_Punk
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12722.240606116276!2d142.7334148!3d-37.1393782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7198331de24dc93a!2sBunjil&#39;s%20Shelter!5e0!3m2!1sen!2sau!4v1603229452734!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+Bunjil’s Shelter is in the Black Range Scenic Reserve on the outskirts of Stawell (pronounced Stall, and not STA-well), found within the Gariwerd.
+
+![](images/bunjilsshelter_01.jpg)
+
+A creator deity who created the land, Bunjil created the people, the plants and animals, our religion, and the laws by which we live and as such Bunjil and his shelter are central to the dreaming of Aboriginal people, particularly the Djab Wurrung and the Jardwadjali.
+
+When you arrive at Bunjil’s Shelter there is a small car park and a short walk to view the Shelter, with a short scenic walk leading back to the car park. From here you’re able to look out over the park.
+
+![](images/bunjilsshelter_02.jpg)
+
+![](images/bunjilsshelter_03.jpg)
+
+![](images/bunjilsshelter_04.jpg)
+
+![](images/bunjilsshelter_05.jpg)
+
+![](images/bunjilsshelter_06.jpg)
+
+## MacKenzie Falls and Broken Falls
+
+* *Difficulty:* Easy - Hard
+* *Time:* 3 hours
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25458.62269128971!2d142.39569544641256!3d-37.09731294939366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ace0c54af8a8381%3A0xfa2f81270c8a7075!2sBroken%20Falls!5e0!3m2!1sen!2sau!4v1603231149139!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+Broken Falls makes up a small section of the MacKenzie river and flows into MacKenzie falls - the more characteristic of the two waterfalls we got to see. In the park, there are three lookouts that you can visit to get different views of MacKenzie and Broken Falls:
+
+The *Broken Falls lookout* is 140 meters from the centre of the park, and is a relatively leisurely walk, with some small hills:
+
+![](images/brokenfalls_02.jpg)
+![](images/brokenfalls_03.jpg)
+
+Cranages Lookout, is 200 meters from the centre and a relatively easy walk - it can be visited on the return trip from the Broken Falls lookout and gives you a lovely side profile of MacKenzie fall, and serves as a homage to Pearl Cranage who used to run a kiosk at the spot.
+
+![](images/brokenfalls_04.jpg)
+
+On the other side of the park is the MacKenzie Falls Lookout, 840m from the parks centre which gives you a wonderful distant view of the surrounding bushland and waterfall, for flora enthusiasts, depending on the time of year you may be able to spot in bloom Kangaroo tails, and large clusters of sundews:
+
+![](images/brokenfalls_01.jpg)
+
+The last way to view MacKenzie Falls, is to take the 570-meter trek down to view the waterfall from the base, with about 110-meters of elevation lost on the way down, prepare yourself, for the trek back up:
+
+![](images/brokenfalls_05.jpg)
+
+The view from one of the viewing platforms on the way down to the base of the falls:
+
+![](images/brokenfalls_06.jpg)
+
+![](images/brokenfalls_07.jpg)
+
+Some images from the base of MacKenzie Falls:
+
+![](images/brokenfalls_011.jpg)
+
+![](images/brokenfalls_08.jpg)
+
+![](images/brokenfalls_09.jpg)
+
+![](images/brokenfalls_10.jpg)
+
+![](images/brokenfalls_12.jpg)
+
+From the base you can also visit Fish Falls, or walk through to Zumsteins, which is a small “town” with the population of 1 emu and 0 people. We'd recommend you don't visit if you're looking for anything to do, or eat, although there is a lovely picknick spot.
+
+## More Information
+
+* [Zumsteins Historic Area](https://www.parks.vic.gov.au/places-to-see/parks/grampians-national-park/attractions/central-grampians/things-to-do/zumsteins-historic-area)
+* [MacKenzie Falls](https://www.parks.vic.gov.au/places-to-see/parks/grampians-national-park/attractions/central-grampians/things-to-do/mackenzie-falls)
+* [Melbourne Day Trips](https://www.parks.vic.gov.au/things-to-do/melbourne-day-trips)
+* [Brambuk The National Park and Cultural Centre](https://www.parks.vic.gov.au/places-to-see/parks/grampians-national-park/attractions/central-grampians/things-to-do/brambuk-the-national-park-and-cultural-centre)
+* [Bunjil Shelter - Stawell](https://www.visitmelbourne.com/regions/Grampians/Things-to-do/Outdoor-activities/Walking-and-hiking/Bunjil-Shelter-Stawell)
