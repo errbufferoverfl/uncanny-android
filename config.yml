@@ -1,13 +1,13 @@
-title: The Butler
+title: Some Hike it Hot
 baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+description: A blog documenting the good, bad, and sweaty times.
 baseurl: /
 canonicalurl: true
 keywords: Cecil, Static Site Generator, SSG
-author: Arnaud Ligny
+author: Bash & Buffy
 date:
   format: j F Y
-  timezone: Europe/Paris
+  timezone: Australia/Melbourne
 theme:
   - hyde
   - netlify
