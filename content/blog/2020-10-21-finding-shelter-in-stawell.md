@@ -18,21 +18,21 @@ We had a week off with the Bureau and [yr.no](https://www.yr.no/) predicting typ
 
 Bunjil’s Shelter is in the Black Range Scenic Reserve on the outskirts of Stawell (pronounced Stall, and not STA-well), found within the Gariwerd.
 
-![](images/bunjilsshelter_01.jpg)
+![](/images/bunjilsshelter_01.jpg)
 
 A creator deity who created the land, Bunjil created the people, the plants and animals, our religion, and the laws by which we live and as such Bunjil and his shelter are central to the dreaming of Aboriginal people, particularly the Djab Wurrung and the Jardwadjali.
 
 When you arrive at Bunjil’s Shelter there is a small car park and a short walk to view the Shelter, with a short scenic walk leading back to the car park. From here you’re able to look out over the park.
 
-![](images/bunjilsshelter_02.jpg)
+![](/images/bunjilsshelter_02.jpg)
 
-![](images/bunjilsshelter_03.jpg)
+![](/images/bunjilsshelter_03.jpg)
 
-![](images/bunjilsshelter_04.jpg)
+![](/images/bunjilsshelter_04.jpg)
 
-![](images/bunjilsshelter_05.jpg)
+![](/images/bunjilsshelter_05.jpg)
 
-![](images/bunjilsshelter_06.jpg)
+![](/images/bunjilsshelter_06.jpg)
 
 ## MacKenzie Falls and Broken Falls
 
@@ -45,38 +45,38 @@ Broken Falls makes up a small section of the MacKenzie river and flows into MacK
 
 The *Broken Falls lookout* is 140 meters from the centre of the park, and is a relatively leisurely walk, with some small hills:
 
-![](images/brokenfalls_02.jpg)
-![](images/brokenfalls_03.jpg)
+![](/images/brokenfalls_02.jpg)
+![](/images/brokenfalls_03.jpg)
 
 Cranages Lookout, is 200 meters from the centre and a relatively easy walk - it can be visited on the return trip from the Broken Falls lookout and gives you a lovely side profile of MacKenzie fall, and serves as a homage to Pearl Cranage who used to run a kiosk at the spot.
 
-![](images/brokenfalls_04.jpg)
+![](/images/brokenfalls_04.jpg)
 
 On the other side of the park is the MacKenzie Falls Lookout, 840m from the parks centre which gives you a wonderful distant view of the surrounding bushland and waterfall, for flora enthusiasts, depending on the time of year you may be able to spot in bloom Kangaroo tails, and large clusters of sundews:
 
-![](images/brokenfalls_01.jpg)
+![](/images/brokenfalls_01.jpg)
 
 The last way to view MacKenzie Falls, is to take the 570-meter trek down to view the waterfall from the base, with about 110-meters of elevation lost on the way down, prepare yourself, for the trek back up:
 
-![](images/brokenfalls_05.jpg)
+![](/images/brokenfalls_05.jpg)
 
 The view from one of the viewing platforms on the way down to the base of the falls:
 
-![](images/brokenfalls_06.jpg)
+![](/images/brokenfalls_06.jpg)
 
-![](images/brokenfalls_07.jpg)
+![](/images/brokenfalls_07.jpg)
 
 Some images from the base of MacKenzie Falls:
 
-![](images/brokenfalls_011.jpg)
+![](/images/brokenfalls_011.jpg)
 
-![](images/brokenfalls_08.jpg)
+![](/images/brokenfalls_08.jpg)
 
-![](images/brokenfalls_09.jpg)
+![](/images/brokenfalls_09.jpg)
 
-![](images/brokenfalls_10.jpg)
+![](/images/brokenfalls_10.jpg)
 
-![](images/brokenfalls_12.jpg)
+![](/images/brokenfalls_12.jpg)
 
 From the base you can also visit Fish Falls, or walk through to Zumsteins, which is a small “town” with the population of 1 emu and 0 people. We'd recommend you don't visit if you're looking for anything to do, or eat, although there is a lovely picknick spot.
 
