@@ -1,7 +1,7 @@
 ---
 title: Finding Shelter in Gariwerd
 date: 2020-10-21
-image: /images/bunjilsshelter_05.jpg
+image: /images/brokenfalls_05.jpg
 tags:
   - Walking
   - Gariwerd
@@ -29,6 +29,8 @@ When you arrive at Bunjil’s Shelter there is a small car park and a short walk
 ![](/images/bunjilsshelter_03.jpg)
 
 ![](/images/bunjilsshelter_04.jpg)
+
+![](/images/bunjilsshelter_05.jpg)
 
 ![](/images/bunjilsshelter_06.jpg)
 
