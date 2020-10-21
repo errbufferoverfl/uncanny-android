@@ -1,7 +1,7 @@
 ---
 title: Finding Shelter in Gariwerd
 date: 2020-10-21
-image: /images/brokenfalls_13.gif
+image: /images/brokenfalls_05.jpg
 tags:
   - Walking
   - Gariwerd
