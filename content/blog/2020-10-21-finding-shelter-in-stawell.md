@@ -71,7 +71,7 @@ The view from one of the viewing platforms on the way down to the base of the fa
 
 Some images from the base of MacKenzie Falls:
 
-![](/images/brokenfalls_011.jpg)
+![](/images/brokenfalls_11.jpg)
 
 ![](/images/brokenfalls_08.jpg)
 
