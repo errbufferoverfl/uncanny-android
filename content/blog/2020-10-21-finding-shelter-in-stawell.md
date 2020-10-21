@@ -1,7 +1,7 @@
 ---
 title: Finding Shelter in Gariwerd
 date: 2020-10-21
-image: /images/brokenfalls_05.jpg
+image: /images/brokenfalls_13.gif
 tags:
   - Walking
   - Gariwerd
@@ -36,27 +36,28 @@ When you arrive at Bunjil’s Shelter there is a small car park and a short walk
 
 ## MacKenzie Falls and Broken Falls
 
-* *Difficulty:* Easy - Hard
+* *Difficulty:* Easy to Hard
 * *Time:* 3 hours
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25458.62269128971!2d142.39569544641256!3d-37.09731294939366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ace0c54af8a8381%3A0xfa2f81270c8a7075!2sBroken%20Falls!5e0!3m2!1sen!2sau!4v1603231149139!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 Broken Falls makes up a small section of the MacKenzie river and flows into MacKenzie falls - the more characteristic of the two waterfalls we got to see. In the park, there are three lookouts that you can visit to get different views of MacKenzie and Broken Falls:
 
-The *Broken Falls lookout* is 140 meters from the centre of the park, and is a relatively leisurely walk, with some small hills:
+The **Broken Falls Lookout** is 140 meters from the centre of the park, and is a relatively leisurely walk, with some small hills:
 
 ![](/images/brokenfalls_02.jpg)
+
 ![](/images/brokenfalls_03.jpg)
 
-Cranages Lookout, is 200 meters from the centre and a relatively easy walk - it can be visited on the return trip from the Broken Falls lookout and gives you a lovely side profile of MacKenzie fall, and serves as a homage to Pearl Cranage who used to run a kiosk at the spot.
+**Cranages Lookout**, is 200 meters from the centre and a relatively easy walk - it can be visited on the return trip from the Broken Falls lookout and gives you a lovely side profile of MacKenzie fall, and serves as a homage to Pearl Cranage who used to run a kiosk at the spot.
 
 ![](/images/brokenfalls_04.jpg)
 
-On the other side of the park is the MacKenzie Falls Lookout, 840m from the parks centre which gives you a wonderful distant view of the surrounding bushland and waterfall, for flora enthusiasts, depending on the time of year you may be able to spot in bloom Kangaroo tails, and large clusters of sundews:
+On the other side of the park is the **MacKenzie Falls Lookout**, 840m from the parks centre which gives you a wonderful distant view of the surrounding bushland and waterfall, for flora enthusiasts, depending on the time of year you may be able to spot in bloom Kangaroo tails, and large clusters of sundews:
 
 ![](/images/brokenfalls_01.jpg)
 
-The last way to view MacKenzie Falls, is to take the 570-meter trek down to view the waterfall from the base, with about 110-meters of elevation lost on the way down, prepare yourself, for the trek back up:
+The last way to view **MacKenzie Falls**, is to take the 570-meter trek down to view the waterfall from the base, with about 110-meters of elevation lost on the way down, prepare yourself, for the trek back up:
 
 ![](/images/brokenfalls_05.jpg)
 
@@ -65,6 +66,8 @@ The view from one of the viewing platforms on the way down to the base of the fa
 ![](/images/brokenfalls_06.jpg)
 
 ![](/images/brokenfalls_07.jpg)
+
+![](/images/brokenfalls_13.gif)
 
 Some images from the base of MacKenzie Falls:
 
@@ -77,6 +80,8 @@ Some images from the base of MacKenzie Falls:
 ![](/images/brokenfalls_10.jpg)
 
 ![](/images/brokenfalls_12.jpg)
+
+![](/images/brokenfalls_14.gif)
 
 From the base you can also visit Fish Falls, or walk through to Zumsteins, which is a locality nearby with the population of 1 emu and 0 people. We'd recommend you don't visit if you're looking for anything to do, or eat, although there is a lovely picknick spot backing onto the falls.
 
