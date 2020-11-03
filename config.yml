@@ -1,0 +1,16 @@
+title: Some Hike it Hot
+baseline: Your blogging assistant
+description: Documenting the good, bad, and sweaty times.
+baseurl: /
+canonicalurl: true
+keywords: Walking, Hiking, Ballaarat
+author: Bash & Buffy
+date:
+  format: j F Y
+  timezone: Australia/Melbourne
+theme:
+  - hyde
+  - netlify
+  - netlify-cms
+postprocess:
+  enabled: true
